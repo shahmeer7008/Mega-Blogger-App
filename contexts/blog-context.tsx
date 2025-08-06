@@ -112,7 +112,7 @@ export const BlogProvider: React.FC<{ children: React.ReactNode }> = ({ children
           category: "Web Development",
           author: "Jane Smith",
           date: "2024-01-15",
-          thumbnail: "/placeholder.svg?height=200&width=400",
+          thumbnail: "/react.png?height=200&width=400",
           likes: 24,
           likedBy: [],
           comments: [
@@ -133,7 +133,7 @@ export const BlogProvider: React.FC<{ children: React.ReactNode }> = ({ children
           category: "Technology",
           author: "Alex Chen",
           date: "2024-01-14",
-          thumbnail: "/placeholder.svg?height=200&width=400",
+          thumbnail: "/ai.avif?height=200&width=400",
           likes: 18,
           likedBy: [],
           comments: [],
@@ -147,7 +147,7 @@ export const BlogProvider: React.FC<{ children: React.ReactNode }> = ({ children
           category: "Lifestyle",
           author: "Sarah Green",
           date: "2024-01-13",
-          thumbnail: "/placeholder.svg?height=200&width=400",
+          thumbnail: "/life.jpg?height=200&width=400",
           likes: 31,
           likedBy: [],
           comments: [
